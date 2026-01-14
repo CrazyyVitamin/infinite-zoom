@@ -120,7 +120,7 @@ infinite-zoom/
 1. Push code to GitHub repository
 2. Go to Settings → Pages
 3. Set source to main branch
-4. Access at `https://username.github.io/repo-name/`
+4. Access at `https://CrazyyVitamin.github.io/infinite-zoom/`
 
 ### Netlify
 
